@@ -2,6 +2,7 @@
   "name": "javascript",
   "version": "1.0.0",
   "description": "search app - built on vanile javascript with use pixabay api",
+  "homepage": "https://VladMCoder.github.io/search-app-api",
   "scripts": {
     "start": "parcel src/index.html",
     "build-github": "parcel build ./src/index.html"
